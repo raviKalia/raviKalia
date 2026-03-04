@@ -50,9 +50,9 @@ I enjoy working on academic and personal projects that improve my development sk
 
 | Platform | Link |
 |----------|------|
-| GitHub | https://github.com/raviKalia |
-| LinkedIn | https://www.linkedin.com/in/ravi-kumar-903462140 |
-| Stack Overflow | https://stackoverflow.com/users/32434213/ravi-kalia |
+| GitHub | [Github](https://github.com/raviKalia )|
+| LinkedIn | [Linkedin](https://www.linkedin.com/in/ravi-kumar-903462140) |
+| Stack Overflow | [Stack Overflow](https://stackoverflow.com/users/32434213/ravi-kalia) |
 
 ---
 
