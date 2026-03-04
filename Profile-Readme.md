@@ -46,14 +46,6 @@ I enjoy working on academic and personal projects that improve my development sk
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviKalia&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviKalia&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 | Platform | Link |
